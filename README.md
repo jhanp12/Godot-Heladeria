@@ -1,12 +1,7 @@
-Proyecto Heladería en Godot 4.3
-Este proyecto está diseñado para demostrar la capacidad de Godot 4.3 para generar y manejar archivos CSV. 
-A través de una simulación de una heladería básica, los usuarios pueden interactuar con diversas secciones 
-del proceso y generar archivos CSV relacionados. El propósito principal de este proyecto es proporcionar 
-una experiencia interactiva que permita ver cómo se gestionan datos en Godot.
+Proyecto Heladería en Godot 4.3🍦🍧
+Este proyecto está diseñado para demostrar las capacidades de Godot 4.3 en la generación y manejo de archivos CSV. A través de una simulación de una heladería básica, los usuarios pueden interactuar con diversas secciones del proceso y generar archivos CSV relacionados. El objetivo principal es proporcionar una experiencia interactiva que permita visualizar cómo Godot maneja y genera estos archivos.
 
-Es un proyecto experimental especialmente dirigido a estudiantes de ingeniería de software o desarrollo de 
-aplicaciones, que buscan comprender cómo trabajar con Godot para generar archivos y desarrollar aplicaciones 
-interactivas.
+Es un proyecto experimental dirigido especialmente a estudiantes de ingeniería de software o desarrolladores de aplicaciones, con el fin de comprender cómo trabajar con Godot para generar archivos y desarrollar aplicaciones interactivas.
 
 Requisitos
 Godot 4.3 o superior debe estar instalado en tu sistema.
@@ -15,18 +10,12 @@ Descargar el proyecto
 Descarga y descomprime el archivo interacbl.rar en tu máquina.
 
 Instalar Godot 4.3
-Asegúrate de tener el software Godot 4.3 previamente instalado. Puedes descargarlo desde la página oficial 
-de Godot.
+Asegúrate de tener Godot 4.3 previamente instalado. Puedes descargarlo desde la página oficial de Godot.
 
 Abrir y ejecutar el proyecto
-Abre el archivo descargado utilizando Godot 4.3. Ejecuta el proyecto para probar la experiencia interactiva 
-de la heladería.
+Abre el archivo descargado con Godot 4.3. Ejecuta el proyecto para probar la experiencia interactiva de la heladería.
 
 Descripción del Proyecto
-Este proyecto simula una heladería básica donde los usuarios pueden interactuar en varias secciones, y cada 
-acción generará un archivo CSV correspondiente a esa sección. La interacción permite observar cómo Godot 
-maneja y genera estos archivos de manera eficiente.
+Este proyecto simula una heladería básica donde los usuarios pueden interactuar con varias secciones. Cada acción generará un archivo CSV correspondiente a la sección. Esto permite observar cómo Godot maneja y genera estos archivos de manera eficiente.
 
-Este proyecto sirve como un tipo de experimento educativo para estudiantes de software, proporcionando una 
-base para realizar aplicaciones más complejas y desarrollos adicionales utilizando Godot. Es ideal para 
-aquellos que buscan aprender a trabajar con archivos CSV y la creación de aplicaciones interactivas.
+El proyecto también funciona como un experimento educativo para estudiantes de software, proporcionando una base sólida para crear aplicaciones más complejas y realizar desarrollos adicionales utilizando Godot. Es ideal para quienes deseen aprender a trabajar con archivos CSV y la creación de aplicaciones interactivas.
